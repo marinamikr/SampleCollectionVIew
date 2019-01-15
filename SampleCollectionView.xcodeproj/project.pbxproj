@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		403382E321EDD64C001B6F6F /* image7.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382D921EDD64C001B6F6F /* image7.JPG */; };
+		403382E421EDD64C001B6F6F /* image4.HEIC in Resources */ = {isa = PBXBuildFile; fileRef = 403382DA21EDD64C001B6F6F /* image4.HEIC */; };
+		403382E521EDD64C001B6F6F /* image8.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382DB21EDD64C001B6F6F /* image8.JPG */; };
+		403382E621EDD64C001B6F6F /* image1.HEIC in Resources */ = {isa = PBXBuildFile; fileRef = 403382DC21EDD64C001B6F6F /* image1.HEIC */; };
+		403382E721EDD64C001B6F6F /* image10.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382DD21EDD64C001B6F6F /* image10.JPG */; };
+		403382E821EDD64C001B6F6F /* image3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382DE21EDD64C001B6F6F /* image3.JPG */; };
+		403382E921EDD64C001B6F6F /* image6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382DF21EDD64C001B6F6F /* image6.JPG */; };
+		403382EA21EDD64C001B6F6F /* image9.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382E021EDD64C001B6F6F /* image9.JPG */; };
+		403382EB21EDD64C001B6F6F /* image2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382E121EDD64C001B6F6F /* image2.JPG */; };
+		403382EC21EDD64C001B6F6F /* image5.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 403382E221EDD64C001B6F6F /* image5.JPG */; };
 		405DF60E21E4BDB300E6BBCF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405DF60D21E4BDB300E6BBCF /* AppDelegate.swift */; };
 		405DF61021E4BDB300E6BBCF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405DF60F21E4BDB300E6BBCF /* ViewController.swift */; };
 		405DF61321E4BDB300E6BBCF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 405DF61121E4BDB300E6BBCF /* Main.storyboard */; };
@@ -14,6 +24,8 @@
 		405DF61821E4BDB400E6BBCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 405DF61621E4BDB400E6BBCF /* LaunchScreen.storyboard */; };
 		405DF62321E4BDB400E6BBCF /* SampleCollectionViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405DF62221E4BDB400E6BBCF /* SampleCollectionViewTests.swift */; };
 		405DF62E21E4BDB400E6BBCF /* SampleCollectionViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405DF62D21E4BDB400E6BBCF /* SampleCollectionViewUITests.swift */; };
+		405DF63D21E4BECE00E6BBCF /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405DF63B21E4BECE00E6BBCF /* CustomCell.swift */; };
+		405DF63E21E4BECE00E6BBCF /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 405DF63C21E4BECE00E6BBCF /* CustomCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +46,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		403382D921EDD64C001B6F6F /* image7.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.JPG; sourceTree = "<group>"; };
+		403382DA21EDD64C001B6F6F /* image4.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; path = image4.HEIC; sourceTree = "<group>"; };
+		403382DB21EDD64C001B6F6F /* image8.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.JPG; sourceTree = "<group>"; };
+		403382DC21EDD64C001B6F6F /* image1.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; path = image1.HEIC; sourceTree = "<group>"; };
+		403382DD21EDD64C001B6F6F /* image10.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image10.JPG; sourceTree = "<group>"; };
+		403382DE21EDD64C001B6F6F /* image3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.JPG; sourceTree = "<group>"; };
+		403382DF21EDD64C001B6F6F /* image6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.JPG; sourceTree = "<group>"; };
+		403382E021EDD64C001B6F6F /* image9.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image9.JPG; sourceTree = "<group>"; };
+		403382E121EDD64C001B6F6F /* image2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.JPG; sourceTree = "<group>"; };
+		403382E221EDD64C001B6F6F /* image5.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.JPG; sourceTree = "<group>"; };
 		405DF60A21E4BDB300E6BBCF /* SampleCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		405DF60D21E4BDB300E6BBCF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		405DF60F21E4BDB300E6BBCF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +69,8 @@
 		405DF62921E4BDB400E6BBCF /* SampleCollectionViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleCollectionViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		405DF62D21E4BDB400E6BBCF /* SampleCollectionViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCollectionViewUITests.swift; sourceTree = "<group>"; };
 		405DF62F21E4BDB400E6BBCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		405DF63B21E4BECE00E6BBCF /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		405DF63C21E4BECE00E6BBCF /* CustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +98,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		403382D821EDD62E001B6F6F /* image */ = {
+			isa = PBXGroup;
+			children = (
+				403382DC21EDD64C001B6F6F /* image1.HEIC */,
+				403382E121EDD64C001B6F6F /* image2.JPG */,
+				403382DE21EDD64C001B6F6F /* image3.JPG */,
+				403382DA21EDD64C001B6F6F /* image4.HEIC */,
+				403382E221EDD64C001B6F6F /* image5.JPG */,
+				403382DF21EDD64C001B6F6F /* image6.JPG */,
+				403382D921EDD64C001B6F6F /* image7.JPG */,
+				403382DB21EDD64C001B6F6F /* image8.JPG */,
+				403382E021EDD64C001B6F6F /* image9.JPG */,
+				403382DD21EDD64C001B6F6F /* image10.JPG */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		403382ED21EDE959001B6F6F /*  CustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				405DF63B21E4BECE00E6BBCF /* CustomCell.swift */,
+				405DF63C21E4BECE00E6BBCF /* CustomCell.xib */,
+			);
+			path = " CustomCell";
+			sourceTree = "<group>";
+		};
 		405DF60121E4BDB300E6BBCF = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +147,8 @@
 		405DF60C21E4BDB300E6BBCF /* SampleCollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				403382ED21EDE959001B6F6F /*  CustomCell */,
+				403382D821EDD62E001B6F6F /* image */,
 				405DF60D21E4BDB300E6BBCF /* AppDelegate.swift */,
 				405DF60F21E4BDB300E6BBCF /* ViewController.swift */,
 				405DF61121E4BDB300E6BBCF /* Main.storyboard */,
@@ -229,8 +281,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				403382E621EDD64C001B6F6F /* image1.HEIC in Resources */,
+				403382E421EDD64C001B6F6F /* image4.HEIC in Resources */,
+				403382E521EDD64C001B6F6F /* image8.JPG in Resources */,
 				405DF61821E4BDB400E6BBCF /* LaunchScreen.storyboard in Resources */,
+				403382EA21EDD64C001B6F6F /* image9.JPG in Resources */,
+				403382E721EDD64C001B6F6F /* image10.JPG in Resources */,
+				403382E321EDD64C001B6F6F /* image7.JPG in Resources */,
+				403382E821EDD64C001B6F6F /* image3.JPG in Resources */,
 				405DF61521E4BDB400E6BBCF /* Assets.xcassets in Resources */,
+				405DF63E21E4BECE00E6BBCF /* CustomCell.xib in Resources */,
+				403382E921EDD64C001B6F6F /* image6.JPG in Resources */,
+				403382EC21EDD64C001B6F6F /* image5.JPG in Resources */,
+				403382EB21EDD64C001B6F6F /* image2.JPG in Resources */,
 				405DF61321E4BDB300E6BBCF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,6 +320,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				405DF61021E4BDB300E6BBCF /* ViewController.swift in Sources */,
+				405DF63D21E4BECE00E6BBCF /* CustomCell.swift in Sources */,
 				405DF60E21E4BDB300E6BBCF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
